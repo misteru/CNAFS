@@ -8,6 +8,9 @@ please cite the following reference:
 
 
 
+BibTeX：
+
+
 @ARTICLE{9271922,
   author={Yuan, Aihong and You, Mengbo and He, Dongjian and Li, Xuelong},
   journal={IEEE Transactions on Cybernetics}, 
