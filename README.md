@@ -1,7 +1,7 @@
 # 🔬 CNAFS Unsupervised Feature Selection
 
 ### The online demo has been released!!!
-[https://huggingface.co/spaces/funnyjack123/UnsupervisedFeatureSelection/tree/main](https://huggingface.co/spaces/funnyjack123/UnsupervisedFeatureSelection/tree/main)
+[https://huggingface.co/spaces/funnyjack123/UnsupervisedFeatureSelection/](https://huggingface.co/spaces/funnyjack123/UnsupervisedFeatureSelection/)
 
 This link is an onlie tool to perform unsupervised feature selection using the CNAFS algorithm and evaluate the selected features using K-means clustering with ACC and NMI metrics.
 
